@@ -1,0 +1,23 @@
+.ME{
+    text-align: center;
+    color: #FF3399;
+    font-weight: bold;
+}
+.doan1{
+    text-align: center;
+    color: #0000FF;
+    font-weight: bold;
+}
+.doan2{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+.doan3{
+    text-align: center;
+    color: #006600;
+    font-weight: bold;
+}
+hr{
+    width: 200px;
+}
